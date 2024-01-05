@@ -14,7 +14,7 @@
 + 숙명여자대학교 화공생명공학부 학생회 홍보부 차장 / 2020.3 ~ 2021.2
 
 **:mortar_board: Major**  
-+ 숙명여자대학교 통계학과 / IT공학과 
++ 숙명여자대학교 통계학과 / IT공학과 <br>
 (Department of Statistics / IT Engineering at Sookmyung Women's University, Korea) / 2020.03 ~
 
 **:clipboard: Certificates**
