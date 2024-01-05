@@ -18,9 +18,9 @@
 (Department of Statistics / IT Engineering at Sookmyung Women's University, Korea) / 2020.03 ~
 
 **:clipboard: Certificates**
-+ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2023.03.24
-+ SQL 개발자(SQLD, SQL Developer) / 2023.04.14
 + TOPCIT(소프트웨어 역량 검정) 3수준 / 2023.11.27
++ SQL 개발자(SQLD, SQL Developer) / 2023.04.14
++ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2023.03.24
 
 **:trophy: Awards**
 + 2023 천안시 데이터 시각화 공모전, 우수상 / 2023.11.01
