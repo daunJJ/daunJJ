@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header&text=Daun%20Jeong&fontSize=60&fontColor=ffffff)
 
 ## About Me
+**:mortar_board: Major**  
++ 숙명여자대학교 통계학과 / IT공학과 <br>
+(Department of Statistics / IT Engineering at Sookmyung Women's University, Korea) / 2020.03 ~
+
 **:books: Experience**
 + 숙명여대 x 대웅그룹 디지털 헬스 프로젝트 AI 장학생 / 2023.12 ~
 + 숙명여자대학교 통계학과 김양진 교수님 연구실 학부 인턴 / 2023.07 ~ 2023.08
@@ -13,15 +17,6 @@
 + 대학생 코딩 캠프 2기 / 2021.1 ~ 2021.3
 + 숙명여자대학교 화공생명공학부 학생회 홍보부 차장 / 2020.3 ~ 2021.2
 
-**:mortar_board: Major**  
-+ 숙명여자대학교 통계학과 / IT공학과 <br>
-(Department of Statistics / IT Engineering at Sookmyung Women's University, Korea) / 2020.03 ~
-
-**:clipboard: Certificates**
-+ TOPCIT(소프트웨어 역량 검정) 3수준 / 2023.11.27
-+ SQL 개발자(SQLD, SQL Developer) / 2023.04.14
-+ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2023.03.24
-
 **:trophy: Awards**
 + 2023 천안시 데이터 시각화 공모전, 우수상 / 2023.11.01
 + 2023 숙명여대 BIGDATA/AI 해커톤, 인기상 / 2023.09.23
@@ -29,6 +24,11 @@
 + 2022 NIA(한국정보사회진흥원) 데이터 멘토링 프로젝트 데.멘.토, 장려상 / 2022.09.02
 + 2022 제 1학기 통계학과 우등상
 + 2022 숙명여자대학교 제 2회 IPS 대회 (IT Project competition of Sookmyung), 최우수상 / 2022.05.27
+  
+**:clipboard: Certificates**
++ TOPCIT(소프트웨어 역량 검정) 3수준 / 2023.11.27
++ SQL 개발자(SQLD, SQL Developer) / 2023.04.14
++ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2023.03.24
 <br>
 
 ## Skills & Tools
