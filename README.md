@@ -34,7 +34,7 @@
 ## Skills & Tools
 <div align="left">
 
-#### 📘 Languages
+#### 📘 Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   
@@ -43,6 +43,9 @@
 <img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+
 
 <br>
 
@@ -86,8 +89,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
 
 </div>
 
