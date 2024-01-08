@@ -34,15 +34,19 @@
 ## Skills & Tools
 <div align="left">
 
-#### 📘 Proficient in
+#### 📘 Languages
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
 
 <br>
 
-#### 📕 Python Module
+#### 📕 ML/DL Libraries
 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 
@@ -54,19 +58,21 @@
   
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+
 <br>
 
 #### 📙 Experience with
 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SAS-4285F4?style=flat&logo=googlechrome&logoColor=blue"/>
 
 <br>
 
 #### 📗 Environment
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
   
